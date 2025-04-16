@@ -93,7 +93,7 @@ public class MainActivity extends AppCompatActivity {
 </RelativeLayout>
 ```
 ## OUTPUT
-<img src ="Screenshot 2025-04-16 095655.png" width  = "25%">
+<img src ="Screenshot 2025-04-16 095655.png" width  = "100%">
 
 
 
